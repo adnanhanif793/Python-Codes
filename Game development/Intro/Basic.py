@@ -25,3 +25,9 @@ print(type(type(int))) # type function returns the class of the argument the obj
 
 
 print(0.1+0.2==0.3) # Neither of 0.1, 0.2 and 0.3 can be represented accurately in binary. The round off errors from 0.1 and 0.2 accumulate and hence there is a difference of 5.5511e-17 between (0.1 + 0.2) and 0.3.
+
+d=range(12,20)
+print(d[1])
+
+r=list(range(1,10))
+print(r)

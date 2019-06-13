@@ -5,6 +5,8 @@ Created on 15-Sep-2018
 '''
 info='hi i am computer engineer'
 print(info[8:16:])
+print(info[8:40])
+#print(info[40]) #will return error
 print(info[:16:])
 print(info[8::])
 print(info[8:16:2])# print alternate letters
