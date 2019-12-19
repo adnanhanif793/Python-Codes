@@ -3,7 +3,7 @@ Created on 05-Dec-2019
 
 @author: adnan.hanif
 '''
-# Calculate Average of a number in a given list
+# Calculate Average of numbers in a given list
 
 from builtins import int
 n= int(input("Enter number of elements"))
